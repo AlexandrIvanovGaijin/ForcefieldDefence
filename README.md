@@ -6,6 +6,7 @@ Survive against hordes of enemies! And remember: The best defense is defense!
 What you need to know:
 
 LMB: place forcefield tower
+
 RMB: place energy generator
 
 Generator may produce energy for building new structures and keep shields up
