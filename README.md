@@ -9,9 +9,14 @@ LMB: place forcefield tower
 
 RMB: place energy generator
 
+
 Generator may produce energy for building new structures and keep shields up
+
 Shields may protect you agains almost any enemy
+
 You can place new structure around generators only(blue zone)!
+
 Enemy can target generators only, but may hit forcefield towers accidently. Keep this in mind when expanding infrastructure.
+
 
 There is few dangerous types of the enemy. Try to spread your infrastructure or place alot of forcefild for using it as energy storage.
